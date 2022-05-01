@@ -1,2 +1,2 @@
-# C-Project
+# C++ Project
 Hospital Management System
